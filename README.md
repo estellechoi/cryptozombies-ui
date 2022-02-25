@@ -1,34 +1,35 @@
-# cryptozombies-ui
+# CryptoZombies Interface
 
-## Project setup
+What I learned about using JavaScript API to connect to one of Ethereum nodes from CryptoZombies course. Uniswap interface repository helped me a lot to setup!
+
+<br />
+
+## 1. Run
+
+### Install yarn
+
+```zsh
+# yarn not installed yet, install it
+npm install yarn -g
 ```
+
+### Install packages
+
+```zsh
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+### Compile and hot-reload in development mode
+
+```zsh
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<br />
 
-### Run your unit tests
-```
-yarn test:unit
-```
+---
 
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
+### References
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Uniswap/interface](https://github.com/Uniswap/interface)
+- [Cryptozombies](https://cryptozombies.io/ko/)
