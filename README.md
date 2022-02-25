@@ -1,6 +1,6 @@
 # CryptoZombies Interface
 
-What I learned about using JavaScript API to connect to one of Ethereum nodes from CryptoZombies course. Uniswap interface repository helped me a lot to setup!
+What I learned about using JavaScript API to connect to one of Ethereum nodes from CryptoZombies course. Uniswap interface repository helped me a lot to setup! Ah, you can find the contracts [here](https://github.com/estellechoi/cryptozombies).
 
 <br />
 
