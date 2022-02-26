@@ -33,3 +33,5 @@ yarn serve
 
 - [Uniswap/interface](https://github.com/Uniswap/interface)
 - [Cryptozombies](https://cryptozombies.io/ko/)
+- [loomnetwork/zombie-char-component](https://github.com/loomnetwork/zombie-char-component)
+- [(Video) How To Create A Web3 App with Vue.js! Getting Started Guide Solidity, Ether.js With Vue](https://www.youtube.com/watch?v=FBUMbdiI6Ug)
